@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Music Festival Extravaganza",
+    "date": "2024-11-05",
+    "location": "Central Park, NYC",
+    "image": "mfe.jpeg",
+    "description": "Experience an unforgettable day of live performances from top artists, street food, and exciting activities at Central Park."
+  },
+  {
+    "id": 2,
+    "name": "Modern Art Showcase",
+    "date": "2024-11-10",
+    "location": "Art Museum, San Francisco",
+    "image": "mas.jpeg",
+    "description": "Discover a collection of thought-provoking, contemporary art pieces by emerging and established artists in this captivating exhibition."
+  },
+  {
+    "id": 3,
+    "name": "Innovators Tech Summit",
+    "date": "2024-11-15",
+    "location": "Silicon Valley, CA",
+    "image": "its.jpeg",
+    "description": "Engage with tech pioneers in interactive workshops, hear inspiring talks, and network with industry leaders in the heart of Silicon Valley."
+  },
+  {
+    "id": 4,
+    "name": "Austin Food Truck Fiesta",
+    "date": "2024-11-20",
+    "location": "Downtown, Austin",
+    "image": "aftf.jpeg",
+    "description": "Indulge in a variety of unique flavors from Austin’s best food trucks, offering everything from tacos to gourmet burgers, in an energetic outdoor setting."
+  },
+  {
+    "id": 5,
+    "name": "Classic Film Night",
+    "date": "2024-11-25",
+    "location": "Cinema Hall, Los Angeles",
+    "image": "cfn.jpeg",
+    "description": "Relive a cinematic classic with a special screening followed by an interactive Q&A session with film experts and critics."
+  }
+]
